@@ -1,3 +1,5 @@
+//application which will display the menu items along with the prizes and 
+//once the order is done,it will calculate the total amount of the order and display it 
 import java.util.*;
 
 public class CS1 {
